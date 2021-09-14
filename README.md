@@ -3,7 +3,7 @@
 
 ## 目录
 
-- [Distributed System](#Distributed System)
+- [Distributed System](#Distributed-System)
 
 ## Distributed System
 
